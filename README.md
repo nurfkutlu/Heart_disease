@@ -3,11 +3,13 @@
 ![Alt text](fknLjV.gif)
 
 
+Heart disease, also known as cardiovascular disease, refers to a class of diseases that involve the heart or blood vessels. Risk factors for heart disease include high blood pressure, high cholesterol levels, smoking, obesity, diabetes, and lots of factors. Therefore, when discussing the importance of heart disease, the focus is usually on factors related to cardiovascular health. This project will analyze indicators and effects.
 
 ###  Project Overview
 #### About Project
   
  - The purpose of the project is to discover the indicators of heart disease. 
+ - Main project file is **HeartDisease.ipynb**
  - The Heart Disease Indıcator project is taken from https://www.kaggle.com/datasets/kamilpytlak/personal-key-indicators-of-heart-disease/data.
  - The dataset originally comes from the CDC and is a major part of the Behavioral Risk Factor Surveillance System (BRFSS), which conducts annual telephone surveys to collect data on the health status of U.S. residents. As described by the CDC: "Established in 1984 with 15 states, BRFSS now collects data in all 50 states, the District of Columbia, and three U.S. territories. BRFSS completes more than 400,000 adult interviews each year, making it the world's largest continuously conducted health survey system.
  - The dataset has, which includes 40 features and 445132 columns.
@@ -17,7 +19,7 @@
  #### Project Flow Chart
  ![Alt text](image.png)
  
- ### Recomendation for Heart Healthy
+ ### Recomendations for Heart Healthy
 
  1. About General Health
  
